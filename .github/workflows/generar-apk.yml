@@ -9,7 +9,7 @@ jobs:
   apk:
     runs-on: ubuntu-latest
     steps:
-      - name: Descargar el código
+      - name: Descargar el codigo
         uses: actions/checkout@v4
 
       - name: Instalar Node
@@ -48,6 +48,3 @@ jobs:
         with:
           name: GanaJuegos-APK
           path: GanaJuegos.apk
-00000000, ábrelo en GitHub, toca el lápiz ✏️, cambia el número y guarda. Así el APK sale con tu número correcto.
-
-Cuando termine la ejecución en Actions, mándame una captura, sobre todo si sale una ❌ roja, y lo revisamos.
