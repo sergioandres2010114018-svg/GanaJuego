@@ -48,10 +48,6 @@ jobs:
         with:
           name: GanaJuegos-APK
           path: GanaJuegos.apk
-Toca el botón verde Commit changes... y luego otra vez Commit changes.
-Entra a la pestaña Actions. Verás “Generar APK” con un círculo amarillo. Espera unos 5 a 8 minutos a que salga ✅.
-Toca esa ejecución, baja hasta Artifacts y descarga GanaJuegos-APK. Adentro del .zip está tu APK.
-
-Antes de eso, revisa también que en www/js/config.js ya esté tu número de WhatsApp. Si todavía dice 573000000000, ábrelo en GitHub, toca el lápiz ✏️, cambia el número y guarda. Así el APK sale con tu número correcto.
+00000000, ábrelo en GitHub, toca el lápiz ✏️, cambia el número y guarda. Así el APK sale con tu número correcto.
 
 Cuando termine la ejecución en Actions, mándame una captura, sobre todo si sale una ❌ roja, y lo revisamos.
